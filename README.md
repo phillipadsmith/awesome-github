@@ -4,9 +4,17 @@ Think Github is awesome? Contribute something to this list! It's easy, just have
 
 The awesomeness is currently organized in just few different buckets: 
 
-* Infomation for people who are new to Github
-* Resources for those already familiar with Github
-* Tips, tricks, tools, and add-ons for Github power users
+* [Infomation for people who are new to Github](#infomation-for-people-who-are-new-to-github)
+* [Resources for those already familiar with Github](#resources-for-those-already-familiar-with-github)
+* [Tips, tricks, tools, and add-ons for Github power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
+
+What is the [Aweome Github](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **Github** one of the most amazing co-creation platforms in the world.
+
+It is specifically focused on _Github_, and not on [Git](https://git-scm.com/). Git is indeed awesome. And there would be no Github without Git. And yet, Github has become much more than a home to much of humanity's open-source code; it has become one of the world's most vivid examples of the power of mass collaboration.
+
+All that to say, this list -- [Aweome Github](https://github.com/phillipadsmith/awesome-github) -- is an attempt to document that aspect of what is awesome: everything that Github has become -- far beyond what Git is today, and beyond where Github started just eight years ago.
+
+------
 
 
 ## Infomation for people who are new to Github
