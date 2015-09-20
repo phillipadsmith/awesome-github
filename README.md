@@ -55,5 +55,6 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](http://prose.io/#about) - Prose provides a beatifully simple content authoring environment for [CMS-free websites](http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
+- [Gatekeeper](https://github.com/prose/gatekeeper)Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 
