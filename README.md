@@ -11,11 +11,11 @@ The awesomeness is currently organized into just few different buckets:
 * [Resources for those already familiar with Github](#resources-for-those-already-familiar-with-github)
 * [Tips, tricks, tools, and add-ons for Github power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
 
-What is the [Aweome Github](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **Github** one of the most amazing co-creation platforms in the world.
+What is the [Awesome Github](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **Github** one of the most amazing co-creation platforms in the world.
 
 It is specifically focused on _Github_, and not on [Git](https://git-scm.com/). Git is indeed awesome. And there would be no Github without Git. And yet, Github has become much more than a home to much of humanity's open-source code; it has become one of the world's most vivid examples of the power of mass collaboration.
 
-All that to say, this list -- [Aweome Github](https://github.com/phillipadsmith/awesome-github) -- is an attempt to document that aspect of what is awesome: everything that Github has become -- far beyond what Git is today, and beyond where Github started just eight years ago.
+All that to say, this list -- [Awesome Github](https://github.com/phillipadsmith/awesome-github) -- is an attempt to document that aspect of what is awesome: everything that Github has become -- far beyond what Git is today, and beyond where Github started just eight years ago.
 
 ------
 
@@ -32,7 +32,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   - [iPython/Jupyter](https://github.com/blog/1995-github-jupyter-notebooks-3) - Yes, that's right, Github also renders `ipynb` files right in the browser. [The possibilities are endless](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
   - [PDF](https://github.com/blog/1974-pdf-viewing) - View PDFs right in your browser.
   - [STL files](https://github.com/blog/1465-stl-file-viewing) - It's pretty amazing, 3D right in the browser.
-  - [CSV](https://github.com/blog/1601-see-your-csvs) - Data jouranalists and civic data nerds rejoice, comma separated values right in the browser!
+  - [CSV](https://github.com/blog/1601-see-your-csvs) - Data journalists and civic data nerds rejoice, comma separated values right in the browser!
   - [SVG](https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
   - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - That's right, same idea as SVG, but for Photoshop files!
 - [Github Government Community](https://github.com/government/welcome) - Information on joining Github's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
@@ -54,7 +54,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Zenhub](https://www.zenhub.io/) - Project management inside of Github, including kanban boards and more.
 - [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to Github).
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
-- [Prose](http://prose.io/#about) - Prose provides a beatifully simple content authoring environment for [CMS-free websites](http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
+- [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
 - [Gatekeeper](https://github.com/prose/gatekeeper)Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
