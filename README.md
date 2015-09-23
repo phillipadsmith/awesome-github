@@ -5,7 +5,7 @@
 
 Think Github is awesome? Contribute something to this list! It's easy, just have a look at the [contribution guidelines](contributing.md).
 
-The awesomeness is currently organized into just few different buckets: 
+The awesomeness is currently organized into just a few different buckets: 
 
 * [Infomation for people who are new to Github](#infomation-for-people-who-are-new-to-github)
 * [Resources for those already familiar with Github](#resources-for-those-already-familiar-with-github)
