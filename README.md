@@ -22,6 +22,7 @@ All that to say, this list -- [Aweome Github](https://github.com/phillipadsmith/
 
 ## Infomation for people who are new to Github
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes Github possible, this is a great place to start. No Github account required.
+- [Classroom for Github](https://classroom.github.com ) - Your course assignments on GitHub.
 - [Writing on Github](https://help.github.com/articles/writing-on-github/) - Github's own guide to using Github for more than just software development.
 - [GithubGuides](https://www.youtube.com/user/GitHubGuides) - GitHub Training & Guides on YouTube.
 - [Github Pages](https://pages.github.com/) - Websites for you and your projects.
