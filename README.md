@@ -43,13 +43,14 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Atom](https://github.com/blog/2031-announcing-atom-1-0) - Did you know that GitHub makes an editor? Use it to write, code, and more.
 - [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
-- [A list of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
 - [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 - [Resume](http://resume.github.com) - Resumes generated using GitHub. 
 
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
 - [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
 - [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to GitHub).
