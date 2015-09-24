@@ -59,3 +59,4 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
+- [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub.
