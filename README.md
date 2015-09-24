@@ -45,7 +45,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
 - [A list of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your Github knowledge.
 - [Github Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
-- [Resume](http://resume.github.com) -  Resumes generated using GitHub. 
+- [Resume](http://resume.github.com) - Resumes generated using GitHub. 
 
 
 ## Tips, tricks, tools, and add-ons for Github power users
@@ -56,6 +56,6 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
-- [Gatekeeper](https://github.com/prose/gatekeeper)Enables client-side applications to dance OAuth with GitHub.
+- [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
