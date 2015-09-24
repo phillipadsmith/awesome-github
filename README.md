@@ -39,11 +39,11 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 
 ## Resources for those already familiar with GitHub
 
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
 - [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
 great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Atom](https://github.com/blog/2031-announcing-atom-1-0) - Did you know that GitHub makes an editor? Use it to write, code, and more.
 - [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
 - [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 - [Resume](http://resume.github.com) - Resumes generated using GitHub. 
 
