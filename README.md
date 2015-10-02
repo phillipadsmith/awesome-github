@@ -17,6 +17,8 @@ It is specifically focused on _GitHub_, and not on [Git](https://git-scm.com/). 
 
 All that to say, this list -- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) -- is an attempt to document that aspect of what is awesome: everything that GitHub has become -- far beyond what Git is today, and beyond where GitHub started just eight years ago.
 
+The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) for the [2015 Mozilla Festival](https://2015.mozillafestival.org/). I later learned, serendiptiously, that the Mozilla Festival itself was using [GitHub issues to manage the program](https://github.com/mozilla/mozfest-program) -- reviewing proposals, assign sessions to tracks and themes, and much more. Just one more example of how GitHub is being used to make awesome.
+
 ------
 
 
