@@ -48,7 +48,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
 - [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 - [Resume](http://resume.github.com) - Resumes generated using GitHub. 
-
+- [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 
