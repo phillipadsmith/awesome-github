@@ -10,6 +10,7 @@ The awesomeness is currently organized into just a few different buckets:
 * [Infomation for people who are new to GitHub](#infomation-for-people-who-are-new-to-github)
 * [Resources for those already familiar with GitHub](#resources-for-those-already-familiar-with-github)
 * [Tips, tricks, tools, and add-ons for GitHub power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
+* [Novel uses of GitHub](#novel-uses-of-github)
 
 What is the [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **GitHub** one of the most amazing co-creation platforms in the world.
 
@@ -64,3 +65,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
 - [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier
+
+## Novel uses of GitHub
+
+- [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
