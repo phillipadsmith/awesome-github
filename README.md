@@ -70,3 +70,4 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
+- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
