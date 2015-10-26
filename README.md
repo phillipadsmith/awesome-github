@@ -66,6 +66,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
 - [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier
+- [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A python script that searches a GirHub repository and auto creates GitHub issues for TODO statements
 
 ## Novel uses of GitHub
 
