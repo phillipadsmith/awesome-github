@@ -65,9 +65,8 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
-<<<<<<< HEAD
 - [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier
-<<<<<<< HEAD
+- [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub.
 - [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another
 - [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A python script that searches a GirHub repository and auto creates GitHub issues for TODO statements
@@ -77,3 +76,4 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 - [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
+- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
