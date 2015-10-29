@@ -58,6 +58,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
 - [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
 - [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
+- [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
 - [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to GitHub).
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
