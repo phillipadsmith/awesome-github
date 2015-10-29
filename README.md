@@ -79,4 +79,5 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 - [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
-- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub
+- [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
+- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
