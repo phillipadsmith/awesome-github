@@ -56,6 +56,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
+- [Gitter](https://gitter.im/) - Chat, for GitHub. Unlimited public rooms and one-to-one chats, free. 
 - [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
 - [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
 - [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
