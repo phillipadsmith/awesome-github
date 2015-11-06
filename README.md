@@ -51,6 +51,8 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 - [Resume](http://resume.github.com) - Resumes generated using GitHub. 
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
+- [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
+- [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
