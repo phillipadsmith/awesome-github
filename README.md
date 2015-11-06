@@ -70,7 +70,6 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
-- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub.
 - [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another
