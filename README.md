@@ -25,7 +25,8 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
 
 ## Infomation for people who are new to GitHub
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
-- [Classroom for GitHub](https://classroom.github.com ) - Your course assignments on GitHub.
+- [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
+- [Bingo Board]() -- Play bingo :boom: by sending pull requests!
 - [Writing on GitHub](https://help.github.com/articles/writing-on-github/) - GitHub's own guide to using GitHub for more than just software development.
 - [GitHubGuides](https://www.youtube.com/user/GitHubGuides) - GitHub Training & Guides on YouTube.
 - [GitHub Pages](https://pages.github.com/) - Websites for you and your projects.
@@ -39,6 +40,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   - [SVG](https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
   - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - That's right, same idea as SVG, but for Photoshop files!
 - [GitHub Government Community](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
+- [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
 
 ## Resources for those already familiar with GitHub
 
