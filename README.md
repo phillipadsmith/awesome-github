@@ -32,7 +32,7 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
 - [GitHub Pages](https://pages.github.com/) - Websites for you and your projects.
 Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 - Filetypes that GitHub can do magic with:
-  - [GeoJSON/TopoJSON](https://github.com/blog/1528-there-s-a-map-for-that) - Instantly [render maps](https://github.com/benbalter/dc-maps/blob/master/embassies.geojson) when you add a GeoJSON file to a repository.
+  - [GeoJSON/TopoJSON](https://github.com/blog/1528-there-s-a-map-for-that) - Instantly [render maps](https://github.com/benbalter/dc-maps/blob/master/maps/embassies.geojson) when you add a GeoJSON file to a repository.
   - [iPython/Jupyter](https://github.com/blog/1995-github-jupyter-notebooks-3) - Yes, that's right, GitHub also renders `ipynb` files right in the browser. [The possibilities are endless](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
   - [PDF](https://github.com/blog/1974-pdf-viewing) - View PDFs right in your browser.
   - [STL files](https://github.com/blog/1465-stl-file-viewing) - It's pretty amazing, 3D right in the browser.
@@ -51,7 +51,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Atom](https://github.com/blog/2031-announcing-atom-1-0) - Did you know that GitHub makes an editor? Use it to write, code, and more.
 - [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
 - [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
-- [Resume](http://resume.github.com) - Resumes generated using GitHub. 
+- [Resume](http://resume.github.io/) - Resumes generated using GitHub. 
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
 - [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
@@ -66,7 +66,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
 - [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to GitHub).
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
-- [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
+- [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
