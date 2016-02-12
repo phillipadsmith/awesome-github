@@ -78,6 +78,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
 - [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
+- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
 
 ## Novel uses of GitHub
 
