@@ -79,6 +79,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
 - [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
+- [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.
 
 ## Novel uses of GitHub
 
