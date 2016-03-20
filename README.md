@@ -81,6 +81,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
 - [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
 - [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.
+- [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 
 ## Novel uses of GitHub
 
