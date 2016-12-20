@@ -26,6 +26,7 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
 ## Infomation for people who are new to GitHub
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
+- [On-Demand GitHub Training](https://services.github.com/on-demand/) - Self-paced, interactive projects created and maintained by GitHub's own Training team. 
 - [Bingo Board](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
 - [Writing on GitHub](https://help.github.com/articles/writing-on-github/) - GitHub's own guide to using GitHub for more than just software development.
 - [GitHubGuides](https://www.youtube.com/user/GitHubGuides) - GitHub Training & Guides on YouTube.
