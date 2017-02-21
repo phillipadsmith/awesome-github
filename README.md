@@ -18,13 +18,13 @@ It is specifically focused on _GitHub_, and not on [Git](https://git-scm.com/). 
 
 All that to say, this list -- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) -- is an attempt to document that aspect of what is awesome: everything that GitHub has become -- far beyond what Git is today, and beyond where GitHub started just eight years ago.
 
-The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) for the [2015 Mozilla Festival](https://2015.mozillafestival.org/). I later learned, serendiptiously, that the Mozilla Festival itself was using [GitHub issues to manage the program](https://github.com/mozilla/mozfest-program) -- reviewing proposals, assign sessions to tracks and themes, and much more. Just one more example of how GitHub is being used to make awesome.
+The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) for the [2015 Mozilla Festival](https://2015.mozillafestival.org/). I later learned, serendipitously, that the Mozilla Festival itself was using [GitHub issues to manage the program](https://github.com/mozilla/mozfest-program) -- reviewing proposals, assign sessions to tracks and themes, and much more. Just one more example of how GitHub is being used to make awesome.
 
 ------
 
 
 ## Infomation for people who are new to GitHub
-- [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
+- [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologies that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
 - [Bingo Board](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
 - [Writing on GitHub](https://help.github.com/articles/writing-on-github/) - GitHub's own guide to using GitHub for more than just software development.
@@ -36,8 +36,8 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   - [iPython/Jupyter](https://github.com/blog/1995-github-jupyter-notebooks-3) - Yes, that's right, GitHub also renders `ipynb` files right in the browser. [The possibilities are endless](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
   - [PDF](https://github.com/blog/1974-pdf-viewing) - View PDFs right in your browser.
   - [STL files](https://github.com/blog/1465-stl-file-viewing) - It's pretty amazing, 3D right in the browser.
-  - [CSV](https://github.com/blog/1601-see-your-csvs) - Data journalists and civic data nerds rejoice, comma separated values right in the browser!
-  - [SVG](https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
+  - [CSV](https://github.com/blog/1601-see-your-csvs) - Data journalists and civic data nerds rejoice. Comma-separated values right in the browser!
+  - [SVG](https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it. (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
   - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - That's right, same idea as SVG, but for Photoshop files!
 - [GitHub Government Community](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
@@ -46,16 +46,16 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge.
 - [GitHub Universe](http://githubuniverse.com/) - Two full days on how to build, collaborate, and deploy
-great software, presented by GitHub. October 1 & 2, 2015, SF.
+great software, presented by GitHub. October 10-12, 2017, SF.
 - [GitHub Desktop](https://desktop.github.com/) - Simple collaboration from your desktop.
 - [Atom](https://github.com/blog/2031-announcing-atom-1-0) - Did you know that GitHub makes an editor? Use it to write, code, and more.
-- [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
+- [Electron](http://electron.atom.io/) - Build cross-platform desktop apps with web technologies.
 - [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 - [Resume](http://resume.github.io/) - Resumes generated using GitHub. 
-- [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
-- [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
-- [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
-- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
+- [Speaker Deck](https://speakerdeck.com/) - "Share presentations without the mess," by GitHub.
+- [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/)).
+- [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples.
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project.
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
@@ -63,31 +63,31 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
 - [Gitter](https://gitter.im/) - Chat, for GitHub. Unlimited public rooms and one-to-one chats, free. 
 - [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
-- [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
-- [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
+- [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web)).
+- [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban boards and more.
 - [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to GitHub).
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
-- [Hub](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
+- [Hub](https://github.com/github/hub) - A command line tool that wraps Git in order to extend it with extra features and commands that make working with GitHub easier.
 - [Ghizmo](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
-- [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
+- [cli-github](https://github.com/harshasrinivas/cli-github) - GitHub made pretty, within the command line.
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub.
-- [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another
+- [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another.
 - [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A Python script that searches a GitHub repository (locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
 - [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
-- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
+- [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub.
 - [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.
-- [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
+- [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll.
 
 ## Novel uses of GitHub
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
-- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
+- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free, self-taught education in Computer Science.
 - [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
-- [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 
+- [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies.
