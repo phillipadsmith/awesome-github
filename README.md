@@ -86,7 +86,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Noteit](https://github.com/Krukov/noteit) - Manage your notes at CLI with GitHub Gists.
 - [Zappr](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your Git projects, useful for Data Science projects
-
+- [Gitential.com](https://gitential.com) - Measure and visualize coding hours, productivity, efficiency of projects, teams, repos or individual developers.
 
 ## Novel uses of GitHub
 
