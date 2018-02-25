@@ -42,6 +42,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - That's right, same idea as SVG, but for Photoshop files!
 - [GitHub Government Community](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
+- [MOOC in Spanish](https://miriadax.net/web/gitmooc) - Introductory course (MOOC) in Spanish from Madrid Polytechnical University
 
 ## Resources for those already familiar with GitHub
 
