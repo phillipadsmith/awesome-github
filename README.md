@@ -82,7 +82,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
 - [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
-- [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.
+- [TinyPress](https://github.com/kehers/tinypress) - TinyPress is the easiest way to publish a blog on GitHub.
 - [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 - [Noteit](https://github.com/Krukov/noteit) - Manage your notes at CLI with GitHub Gists.
 - [Zappr](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
