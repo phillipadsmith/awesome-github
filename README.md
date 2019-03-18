@@ -57,7 +57,8 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
 - [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
-- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project.
+- [Top 10 GitHub Best Practices](https://datree.io/blog/top-10-github-best-practices/) - List of best practices to follow when managing repositories on GitHub.
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
