@@ -90,6 +90,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gitential.com](https://gitential.com) - Measure and visualize coding hours, productivity, efficiency of projects, teams, repos or individual developers.
 - [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 - [FeatHub](https://feathub.com/) - Feature voting for GitHub.
+- [GitRows](https://gitrows.com) CRUD Interface to csv and json files stored on GitHub with an automagical REST API for public data files
 
 ## Novel uses of GitHub
 
