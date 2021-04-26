@@ -60,6 +60,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
+- [Pull Dog](https://github.com/apps/pull-dog) - Automatic test environments for your pull requests.
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
