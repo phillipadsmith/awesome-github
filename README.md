@@ -92,6 +92,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 - [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 - [multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in bulk.
+- [issue-dash](https://github.com/GiulioSavini/issue-dash) - Self-hosted GitHub Issues dashboard with AI triage suggestions, CI failure analysis, and unresolved review comment tracking. Docker-ready.
 
 ## Novel uses of GitHub
 
