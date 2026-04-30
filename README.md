@@ -24,6 +24,16 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
 
 
 ## Infomation for people who are new to GitHub
+
+## OpenClaw Monitor
+
+> Real-time AI Agent Monitoring Dashboard for OpenClaw
+
+**GitHub:** [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
 - [On-Demand GitHub Training](https://services.github.com/on-demand/) - Self-paced, interactive projects created and maintained by GitHub's own Training team. 
