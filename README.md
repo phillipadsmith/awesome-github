@@ -92,6 +92,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 - [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 - [multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in bulk.
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
 
 ## Novel uses of GitHub
 
