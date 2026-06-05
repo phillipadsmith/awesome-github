@@ -92,6 +92,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 - [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 - [multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in bulk.
+- [markupmarkdown](https://github.com/jonradoff/markupmarkdown) - Google-Docs-style commenting on any markdown file from GitHub. Paste a GitHub URL (public or private), drag-select text → leave a comment, threaded replies, @-mentions, mark-as-done. Bundles an MCP server so AI agents join the same review loop as humans, plus AI revision via Anthropic Claude.
 
 ## Novel uses of GitHub
 
