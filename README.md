@@ -92,6 +92,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 - [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 - [multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in bulk.
+- [PR Cockpit](https://prcockpit.com/) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.
 
 ## Novel uses of GitHub
 
