@@ -92,6 +92,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 - [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 - [multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in bulk.
+- [Clockoli](https://github.com/Clockoli/clockoli) - Free, open-source time tracker for GitHub issues and pull requests that stores time records in your own GitHub repositories.
 
 ## Novel uses of GitHub
 
